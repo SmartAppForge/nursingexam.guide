@@ -1,0 +1,1 @@
+- [PHASE3-MAKE-AUTOMATION-REPORT.md](PHASE3-MAKE-AUTOMATION-REPORT.md) — Make.com integration preparation based on repository inspection. [[phase3-make-automation]]
